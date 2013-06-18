@@ -1,4 +1,6 @@
 glib-demos
 ==========
 
-Play with glib
+A few toy programs with Gnome's GLib.
+
+GPLv2 licensed.
